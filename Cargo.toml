@@ -9,9 +9,7 @@ members = [
     "rcrab-input",
     "rcrab-asset",
     "rcrab-examples",
-    "examples/rotating_crab",
-    "examples/sand_terrain",
-    "examples/multi_light_demo",
+    "examples/*",
 ]
 
 [workspace.package]
