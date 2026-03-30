@@ -1,0 +1,7 @@
+[package]
+name = "rotating_crab"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rcrab-core = { path = "../../rcrab-core" }

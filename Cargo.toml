@@ -1,0 +1,20 @@
+[workspace]
+members = [
+    "rcrab-core",
+    "rcrab-scene",
+    "rcrab-renderer",
+    "rcrab-physics",
+    "rcrab-audio",
+    "rcrab-input",
+    "rcrab-asset",
+    "rcrab-examples",
+    "examples/rotating_crab",
+    "examples/sand_terrain",
+    "examples/multi_light_demo",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["rCrabEngine Team"]
+license = "BSD-3-Clause"
