@@ -1,7 +1,7 @@
 
 
 > [!IMPORTANT]  
-> This was the 2026 April Fool for the [jmonkeyengine community](https://jmonkeyengine.org). The code here is ai generated garbage!
+> This was the 2026 April Fool for the [jmonkeyengine community](https://hub.jmonkeyengine.org/t/jmonkeyengine-is-dead-long-live-rcrabengine/49445). The code here is ai generated garbage!
 
 
 # rCrabEngine
