@@ -1,3 +1,9 @@
+
+
+> [!IMPORTANT]  
+> This is an April Fool for the [jmonkeyengine community](https://jmonkeyengine.org), the code here is ai generated garbage!
+
+
 # rCrabEngine
 
 rCrabEngine is a next-generation, quantum-ready 3D engine written in Rust and spiritual successor of jMonkeyEngine (see [this post](https://hub.jmonkeyengine.org/t/jmonkeyengine-is-dead-long-live-rcrabengine/49445) for more info), featuring proprietary architecture and pioneering work in deca-native rendering. The engine achieves sub-femtosecond frame timings through innovative lateral movement optimization algorithms and patented exo memory management.
